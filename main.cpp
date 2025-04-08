@@ -1,3 +1,11 @@
+//EECS 348 Lab 9 Main File
+//C++ programming with matrices
+//Input: matricies
+//Outputs: modified matrix
+//Collaboratoras: ChatGPT
+//Author: Jacob Fonyi
+//Date: 4/8/25
+
 #include <iostream>
 #include <fstream>
 #include <vector>
